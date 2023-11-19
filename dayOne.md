@@ -50,4 +50,4 @@ Ce serveur vient avec son image docker bien entendu.
 
 ## Rendu
 
-A la fin de la journée, merci de commit et pusher tout votre travail (même incomplet). Et de m'envoyer le lien du repository à arthur.escriou@gmail.com ou sur slack.
+A la fin de la journée, merci de commit et pusher tout votre travail (même incomplet). Et de m'envoyer le lien du repository à arthur.escriou@gmail.com ou sur discord.
